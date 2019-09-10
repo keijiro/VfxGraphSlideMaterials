@@ -8,4 +8,4 @@ VFXManager:
   m_SortShader: {fileID: 7200000, guid: ea257ca3cfb12a642a5025e612af6b2a, type: 3}
   m_RenderPipeSettingsPath: Packages/com.unity.visualeffectgraph/Shaders/RenderPipeline/HDRP
   m_FixedTimeStep: 0.016666668
-  m_MaxDeltaTime: 0.05
+  m_MaxDeltaTime: 0.01666667
